@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100vh;
+    width: 100vh;
+   
+    
+}
+
+body{
+     background-image: linear-gradient(to top, rgb(216, 216, 216),#ffffff);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+main{
+    height: 100vh;
+    
+    
+}
+
+#telefone{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 550px;
+    width: 311px;
+    background-image: url(../Imagensnovas/Iphonex.png)  ;
+    
+  
+
+}
+
+#tela{
+    position: relative;
+    left: 38px;
+    top: 20px;
+    width: 238px;
+    height:517px;
+    border-radius:30px;
+}
+
+
+#redes-sociais{
+    text-align: left;
+}
+#redes-sociais img{
+    box-sizing: border-box;
+    width: 50px;
+    margin: 8px;
+
+}
+
+#redes-sociais img:hover{
+    border-radius: 50%;
+    padding: 5px;
+    background-color:rgba(71, 71, 71, 0.527) ;
+    transform: translate(-3px, -3px);
+    transition: 0,5s;
+
+    
+}
