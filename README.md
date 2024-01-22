@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Social oferece uma abordagem envolvente e interativa para estudar e aplicar iframes em páginas de redes sociais. A página principal simula a interface de uma rede social em um dispositivo móvel
 
-- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Starbucks/)
+- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-social/)
 
 
 ## :memo: Licença
